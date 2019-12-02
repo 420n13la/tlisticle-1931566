@@ -1,0 +1,145 @@
+ {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+nav {
+  border: 1px solid #fff;
+  padding: 10px; 
+  color:orange; 
+  border:3px solid orange; 
+  border-radius: 50px; 
+   
+  height: 100%;
+  display:flex;
+  justify-content: space-around;
+  text-align: center;
+  margin-top:50px;
+  
+}
+main { 
+  background-color: ; 
+  font-family: 'Roboto', sans-serrif; 
+  padding-top: 50px;
+  display:flex;
+  justify-content: space-around;
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.photo-grid {
+  width: 900px;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.photo-grid-item {
+  border: 1px solid #fff;
+  width: 300px;
+  height: 300px;
+}
+header{ 
+  border: 2px solid;
+  border-radius:25px;
+  color: WHITE;
+   background-color:ORANGE;
+  Padding:50px;
+  font-size: 50px; 
+  font-family: 'Bebas Neue', cursive;
+ text-align: center;
+}
+.bruh {
+  color: grey;
+  
+} 
+.DEUS VULT {
+  color: lightgrey;
+  
+}
+
+
+.yeet{
+  color: ;
+} 
+
+p{ 
+font-family: 'Oswald', sans-serif;
+  text-align:center;
+padding-bottom: 10px;
+} 
+.EwMormons{  
+border-radius: 25px;
+  border: 2px  solid lightgrey;
+padding:20px;
+  
+} 
+
+.Josh{  
+border-radius: 25px;
+  border: 2px solid lightgrey;
+padding:20px;
+} 
+
+.lmao{  
+border-radius: 25px;
+  border: 2px solid lightgrey;
+padding:20px;
+  margin-top:20px;
+} 
+#wrapper{ 
+  
+
+} 
+img{ 
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+
+} 
+a:link{ 
+font-size: 33px;
+  color:orange;
+  font-family: 'Roboto', cursive; 
+  text-decoration: none;
+  
+  
+  
+  
+  
+} 
+a:visited{ 
+  color: lightgrey; 
+  text-decoration: none;
+  
+
+
+} 
+a:hover{ 
+text-decoration:underline;
+
+}
+.pfp {
+  
+  border-top-left-radius: 50% 50%;
+  border-top-right-radius: 50% 50%;
+  border-bottom-right-radius: 50% 50%;
+  border-bottom-left-radius: 50% 50%;
+  
+  width: 150px;
+  height: 150px;
+  display: box;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:20px ;
+} 
+
+footer{ 
+text-align:center; 
+  padding:5px;
+}
